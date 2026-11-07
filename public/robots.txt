@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pelotalibre.life/sitemap.xml
